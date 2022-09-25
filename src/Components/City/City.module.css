@@ -1,0 +1,26 @@
+.inputDiv {
+  /* border: 1px solid red; */
+
+  margin-top: 10px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 5px;
+}
+input {
+  width: 100%;
+  font-size: 21px;
+  padding: 15px;
+  /* outline: none; */
+  /* border-color: none; */
+  border: none;
+  border-radius: 5px;
+}
+input:focus {
+  border: 1px solid grey;
+  outline: none;
+}
+.nameDiv {
+  /* border: 1px solid blue; */
+  /* text-align: center; */
+  padding-left: 10px;
+}

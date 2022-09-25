@@ -1,0 +1,10 @@
+.container {
+  /* border: 1px solid red; */
+  /* width: 100%; */
+  max-width: 60%;
+  margin: auto;
+  height: 650px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  padding: 10px 16px;
+}
